@@ -1,0 +1,8 @@
+Part 1 - Tensors in PyTorch : https://www.youtube.com/watch?v=n4mbZYIfKb4
+Part 2 - Neural Networks in PyTorch : https://www.youtube.com/watch?v=u50_ZyKqt8g
+Part 3 - Training Neural Networks : https://www.youtube.com/watch?v=u8hDj5aJK6I
+Part 4 - Fashion-MNIST Exercise : https://www.youtube.com/watch?v=AEJV_RKZ7VU
+Part 5 - Inference and Validation : https://www.youtube.com/watch?v=coBbbrGZXI0
+Part 6 - Saving and Loading Models : https://www.youtube.com/watch?v=HiTih59dCWQ
+Part 7 - Loading Image Data : https://www.youtube.com/watch?v=hFu7GTfRWks
+Part 8 - Transfer Learning : https://www.youtube.com/watch?v=3eqn5sgCOsY
